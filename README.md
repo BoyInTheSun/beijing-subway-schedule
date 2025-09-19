@@ -73,4 +73,4 @@
 
 本项目采取[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)许可证。
 
-除*6号线*数据由本项目作者自行整理，其他数据均来自[Beijing-Subway-Tools](https://github.com/Mick235711/Beijing-Subway-Tools)。感谢[@Mick235711](https://github.com/Mick235711)整理数据并提供适用于本项目格式的接口。
+*6号线*数据由本项目作者自行整理，其他数据来自[Beijing-Subway-Tools](https://github.com/Mick235711/Beijing-Subway-Tools)并进行了微调。感谢[@Mick235711](https://github.com/Mick235711)整理数据并提供适用于本项目格式的接口。
