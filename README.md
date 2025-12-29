@@ -46,7 +46,7 @@
 | 3号线 | 03 | ![](https://img.shields.io/badge/%23CE093D-CE093D?style=flat-square) | 【运四】北京市地铁运营有限公司运营四分公司 | [Beijing-Subway-Tools](https://github.com/Mick235711/Beijing-Subway-Tools) | 2025-05-08 |
 | 4号线大兴线 | 04 | ![](https://img.shields.io/badge/%23008E9C-008E9C?style=flat-square) | 【京港】北京京港地铁有限公司 | [Beijing-Subway-Tools](https://github.com/Mick235711/Beijing-Subway-Tools) | 2025-01-10 |
 | 5号线 | 05 | ![](https://img.shields.io/badge/%23A6217F-A6217F?style=flat-square) | 【运一】北京市地铁运营有限公司运营一分公司 | [Beijing-Subway-Tools](https://github.com/Mick235711/Beijing-Subway-Tools) | 2025-06-03 |
-| 6号线 | 06 | ![](https://img.shields.io/badge/%23D29700-D29700) | 【运一】北京市地铁运营有限公司运营一分公司 | 本项目整理 | 2024-1-27 |
+| 6号线 | 06 | ![](https://img.shields.io/badge/%23D29700-D29700?style=flat-square) | 【运一】北京市地铁运营有限公司运营一分公司 | 本项目整理 | 2024-01-27 |
 | 7号线 | 07 | ![](https://img.shields.io/badge/%23F6C582-F6C582?style=flat-square) | 【运一】北京市地铁运营有限公司运营一分公司 | [Beijing-Subway-Tools](https://github.com/Mick235711/Beijing-Subway-Tools) | 2023-12-01 |
 | 8号线 | 08 | ![](https://img.shields.io/badge/%23009B6B-009B6B?style=flat-square) | 【运三】北京市地铁运营有限公司运营三分公司 | [Beijing-Subway-Tools](https://github.com/Mick235711/Beijing-Subway-Tools) | 2023-12-01 |
 | 9号线 | 09 | ![](https://img.shields.io/badge/%238FC31F-8FC31F?style=flat-square) | 【运二】北京市地铁运营有限公司运营二分公司 | [Beijing-Subway-Tools](https://github.com/Mick235711/Beijing-Subway-Tools) | 2023-12-01 |
